@@ -11,7 +11,15 @@ A powerful, multi-language Python automation tool to download Turkish series wit
 - **Auto-naming:** Files are automatically saved in `Series_Name_S01E01.mp4` format.
 - **Stealth Browsing:** Uses Playwright to bypass basic bot detection.
 - **Bulk Download:** Download an entire series or choose specific episodes.
+- 
+## 💻 Platforms
+- **Windows / macOS / Linux** (Local installation)
+- **CasaOS / Docker** (Ideal for 24/7 Media Servers)
 
+## 🛠️ Requirements
+- Python 3.8+
+- Playwright (Chromium)
+- yt-dlp
 ---
 
 ## 📦 Installation
