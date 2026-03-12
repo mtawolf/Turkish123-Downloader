@@ -1,0 +1,6 @@
+# Kern bibliotheken voor web-automatisering en downloaden
+playwright>=1.40.0
+yt-dlp>=2025.01.01
+
+# Eventuele afhankelijkheden voor video-verwerking (optioneel maar aangeraden)
+# Op Linux/macOS is FFmpeg vaak al aanwezig, op Windows wordt dit via yt-dlp aangeroepen.
